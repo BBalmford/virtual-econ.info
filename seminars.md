@@ -498,3 +498,13 @@ Meetings: Wednesdays, 12 noon ET (NY time) (currently 6pm Germany/France, 9am SF
 - [Website](https://sites.google.com/site/lindamarleneschilling/home)
 - [Info](https://drive.google.com/file/d/1FEnt42opuzpQiJtPUF1lHqN3Zdp9mdhZ/view)
 - [Mailing list](mailto:virtualfinancetheoryseminar.com)
+
+### The Land, Environment, Economics and Policy Institute's Online Seminars (LEEPout)
+
+The LEEPout webinar series is a monthly seminar series hosted by The Land, Environment, Economics, and Policy Institute at the University of Exeter. The LEEPout series is designed as a platform for the very best researchers to showcase their work at the cutting edge of environmental and resource economics. Each presentation starts at 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern) and typically lasts 45 minutes with 15 minutes for audience questions. Our upcoming talks are:
+
+- Thomas Sterner, Monday 15th June, 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern)
+- Gretchen Daily, Thursday 16th July, 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern)
+- Vic Adamowicz, Thursday 10th September, 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern)
+
+Registration through Eventbrite is required for each talk - details on how to register will be posted on [our website] (http://www.exeter.ac.uk/leep/conferencesandseries/leepoutseminarseries/) and sent to our mailing list, which you can [sign-up to here] (http://eepurl.com/g2mpFb)
