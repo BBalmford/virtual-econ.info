@@ -514,9 +514,10 @@ Meetings: Tuesdays at 11:30AM eastern time (5:30PM CEST). Format: 30 min talk, 1
 
 ### The Land, Environment, Economics and Policy Institute's Seminars
 
-The LEEPout webinar series is a monthly seminar series hosted by The LEEP Institute, University of Exeter. It is designed as a platform for the very best researchers to showcase their work at the cutting edge of environmental and resource economics. Days vary each month, but talks are an hour from 4pm UK (5pm Central Europe, 8am Pacific, 11am Eastern). Registration is required for each talk.
- 
-See [our website](http://www.exeter.ac.uk/leep/conferencesandseries/leepoutseminarseries/) for further updates, or [subscribe](http://eepurl.com/g2mpFb) to our mailing list.
+The LEEPout webinar series is a monthly seminar series hosted by The LEEP Institute, University of Exeter. It is designed as a platform for the very best researchers to showcase their work at the cutting edge of environmental and resource economics. Talks are always on Thursdays for an hour from 4pm UK (5pm Central Europe, USUALLY: 8am Pacific, 11am Eastern) on Zoom.
+
+Registration is required for each talk, linked from [our website](http://www.exeter.ac.uk/leep/conferencesandseries/leepoutseminarseries/).
+For further updates [subscribe](http://eepurl.com/g2mpFb) to our mailing list.
 
 ### SoDa Labs 
 
